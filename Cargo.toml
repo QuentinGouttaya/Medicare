@@ -1,0 +1,11 @@
+[workspace]
+
+resolver = "2"
+
+members = [ "common",
+  "medicare-admin-app",
+  "medicare-app",
+  "migration"
+]
+
+
